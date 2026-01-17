@@ -19,7 +19,7 @@ Aplikasi CRUD sederhana menggunakan Flutter (Local Storage & Cloud Firebase).
 ---
 
 ## Video Demo
-[![Video Demo](images/video%20demo.png)](https://drive.google.com/file/d/1DjwHoWwAuhjz6DpIrM-FP1So3794EG-h/view?usp=sharing)
+[Klik di sini untuk melihat Video Demo](https://drive.google.com/file/d/1DjwHoWwAuhjz6DpIrM-FP1So3794EG-h/view?usp=sharing)
 
 
 ---
