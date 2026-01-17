@@ -1,16 +1,27 @@
-# crud_project
+# Flutter CRUD Project
 
-A new Flutter project.
+**Nama:** Rifki Febrian  
+**NIM:** 23552011430  
+**Kelas:** TIF 23 CID A  
+**Dosen:** Nova Agustina, ST., M.Kom.  
 
-## Getting Started
+Aplikasi CRUD sederhana menggunakan Flutter (Local Storage & Cloud Firebase).
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<p align="center">
+  <img src="images/Dashboard.png" width="200" alt="Dashboard">
+  <img src="images/cloud_storage_crud.png" width="200" alt="Cloud Storage CRUD">
+  <img src="images/firebase_database.png" width="200" alt="Firebase Database">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Demo
+[Video Demo](https://drive.google.com/file/d/1DjwHoWwAuhjz6DpIrM-FP1So3794EG-h/view?usp=sharing)
+
+---
+
+## GitHub Repository
+[https://github.com/rynrifn/flutter_crud_project](https://github.com/rynrifn/flutter_crud_project)
