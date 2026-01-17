@@ -1,4 +1,4 @@
-# Flutter CRUD Project
+# Flutter CRUD Firebase Project
 
 **Nama:** Rifki Febrian  
 **NIM:** 23552011430  
