@@ -12,9 +12,10 @@ Aplikasi CRUD sederhana menggunakan Flutter (Local Storage & Cloud Firebase).
 ## Screenshots
 <p align="center">
   <img src="images/Dashboard.png" width="200" alt="Dashboard">
-  <img src="images/cloud_storage_crud.png" width="200" alt="Cloud Storage CRUD">
-  <img src="images/firebase_database.png" width="200" alt="Firebase Database">
+  <img src="images/cloud storage crud.png" width="200" alt="Cloud Storage CRUD">
+  <img src="images/Firebase Database.png" width="200" alt="Firebase Database">
 </p>
+
 
 ---
 
