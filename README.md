@@ -24,5 +24,4 @@ Aplikasi CRUD sederhana menggunakan Flutter (Local Storage & Cloud Firebase).
 
 ---
 
-## GitHub Repository
-[https://github.com/rynrifn/flutter_crud_project](https://github.com/rynrifn/flutter_crud_project)
+
